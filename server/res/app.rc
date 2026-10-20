@@ -1,0 +1,3 @@
+// 资源文件: 将 app.manifest 嵌入可执行文件
+// RT_MANIFEST = 24, 资源 ID 必须为 1 (exe 默认清单 ID)
+1 24 "app.manifest"
